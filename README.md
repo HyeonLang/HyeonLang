@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E5B279&height=170&section=header&text=HyeonLang's%20Github&fontColor=FFFAF0&fontSize=40&fontAlignY=30" />
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjkj56567)](https://solved.ac/kjkj56567/)
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
