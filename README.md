@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E5B279&height=200&section=header&text=HyeonLang's%20Github&fontColor=FFFAFA&fontSize=40&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E5B279&height=200&section=header&text=HyeonLang's%20Github&fontColor=FFFAF0&fontSize=40&fontAlignY=35" />
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
