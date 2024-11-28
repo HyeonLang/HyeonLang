@@ -25,6 +25,6 @@
 
 ## 📊 HyeonLang's Stats
 ![HyeonLang's github stats](https://github-readme-stats.vercel.app/api?username=HyeonLang&show_icons=true&theme=compact)
-[![HyeonLang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonLang&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&show_icons=true&hide=stars)](https://github.com/HyeonLang)
+[![HyeonLang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonLang&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&hide=stars,issues&hide=stars)](https://github.com/HyeonLang)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E5B279&height=120&section=footer" />
