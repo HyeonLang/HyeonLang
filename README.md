@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E5B279&height=140&section=header&text=HyeonLang's%20Github&fontColor=FFFAF0&fontSize=40&fontAlignY=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E5B279&height=140&section=header&text=HyeonLang's%20Github&fontColor=FFFAF0&fontSize=30&fontAlignY=30" />
 <br>
 
 ## 💡 Solved.ac Profile
