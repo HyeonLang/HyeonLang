@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E5B279&height=140&section=header&text=HyeonLang's%20Github&fontColor=FFFAF0&fontSize=30&fontAlignY=30" />
 
-## 💡 Solved.ac Profile
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjkj56567)](https://solved.ac/kjkj56567/)
-
-
 ## 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -25,8 +21,9 @@
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 📊 GitHub Stats
+## 📊 Stats
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjkj56567)](https://solved.ac/kjkj56567/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonLang)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E5B279&height=140&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E5B279&height=120&section=footer" />
