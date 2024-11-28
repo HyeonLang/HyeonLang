@@ -20,9 +20,10 @@
 ## 📂 Database
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+## 💡 Solved.ac Profile
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjkj56567)](https://solved.ac/kjkj56567/)
 
 ## 📊 HyeonLang's Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjkj56567)](https://solved.ac/kjkj56567/)
 ![HyeonLang's github stats](https://github-readme-stats.vercel.app/api?username=HyeonLang&show_icons=true&theme=compact)
 [![HyeonLang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonLang&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/HyeonLang)
 
