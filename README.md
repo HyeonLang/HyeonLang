@@ -23,7 +23,7 @@
 
 ## 📊 Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjkj56567)](https://solved.ac/kjkj56567/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonLang&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
+![HyeonLang's github stats](https://github-readme-stats.vercel.app/api?username=HyeonLang&show_icons=true)
+[![HyeonLang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonLang&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/HyeonLang)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E5B279&height=120&section=footer" />
